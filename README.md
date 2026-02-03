@@ -1,10 +1,6 @@
 # Cifrados y Criptografía
 ## Parte 01: Investigación de Cifrado: Cifrado de Vigenère
 
-#@TODO Realizar la investigación de un cifrado a su elección del contenido "historia de criptografia".
-Mostrar un ejemplo de aplicación.
-Explicar porque lo eligieron, cual creen que son sus ventajas y vulnerabilidades.
-
 ### Cifrado elegido: Cifrado de Vigenère
 
 El cifrado de Vigenère es un método de cifrado por sustitución polialfabética que utiliza una serie de diferentes alfabetos de cifrado basados en las letras de una palabra clave. Fue inventado en el siglo XVI y es conocido por su resistencia a los ataques de frecuencia, lo que lo hace más seguro que los cifrados monoalfabéticos simples.
